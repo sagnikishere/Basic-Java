@@ -56,7 +56,7 @@ public class Binary_Search {
         }
 
         // Binary Search
-        Arrays.sort(arr); // Sort the array for Bina ry Search
+        Arrays.sort(arr); // Sort the array for Binary Search
         System.out.println("Sorted Array for Binary Search: " + Arrays.toString(arr));
         int binaryResult = binarySearch(arr, target);
         if (binaryResult != -1) {
