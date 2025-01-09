@@ -12,7 +12,7 @@ public class Binary_Search {
         return -1; // Return -1 if not found
     }
 
-    // Binary Search   Method
+    // Binary Search Method
     public static int binarySearch(int[] arr, int target) {
         int left = 0, right = arr.length - 1;
 
